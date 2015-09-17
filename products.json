@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Dodo",
+    "price": 666,
+    "description": "some text",
+    "specification": "brain",
+    "canPurchase": true,
+    "soldOut": false,
+    "reviews": [
+      {
+        "stars": 5,
+        "body": "I love this product!",
+        "author": "joe@thomas.com"
+      },
+      {
+        "stars": 1,
+        "body": "This product sucks",
+        "author": "tim@hater.com"
+      },
+      {
+        "stars": 3,
+        "body": "eh product!",
+        "author": "average@joe.com"
+      }
+    ]
+  },
+  {
+    "name": "Penta",
+    "price": 2.22,
+    "description": "text. . .",
+    "specification": "shiny",
+    "canPurchase": true,
+    "soldOut": false,
+    "reviews": [
+      {
+        "stars": 4,
+        "body": "cool",
+        "author": "joe@thomas.com"
+      },
+      {
+        "stars": 2,
+        "body": "This product is okay",
+        "author": "jim@hater.com"
+      },
+      {
+        "stars": 5,
+        "body": "awesome!",
+        "author": "kate@space.com"
+      }
+    ]
+  }
+]
